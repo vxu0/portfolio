@@ -3,7 +3,7 @@
         'name' => 'vxu/portfolio',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '33593904848aea021647559894b3cd0713e3ad1d',
+        'reference' => 'f8e390c589332d553667b8f818e58c5e81658d25',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'vxu/portfolio' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '33593904848aea021647559894b3cd0713e3ad1d',
+            'reference' => 'f8e390c589332d553667b8f818e58c5e81658d25',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
