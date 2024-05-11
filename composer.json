@@ -1,4 +1,8 @@
 {
     "name": "vxu/portfolio",
-    "require": {}
+    "description": "basic application",
+    "license": "proprietary",
+    "require": {
+        "php": "^8.2"
+    }
 }
