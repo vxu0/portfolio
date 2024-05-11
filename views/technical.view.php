@@ -7,7 +7,7 @@
 
         <li>
             <span class='font-bold'>personal website (2024-04)</span>
-            <span class="text-gray-400 italic"> — PHP, SQL, HTML, Tailwind CSS</span>
+            <span class="text-gray-400 italic"> — PHP, HTML, Tailwind CSS</span>
             <p class='pl-8'>you're here right now!</p>
         </li>
 
