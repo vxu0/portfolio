@@ -1,1 +1,0 @@
-<p class="mx-auto max-w-7xl pt-6 px-8 text-lg text-gray-600 font-medium"><?= $heading ?></p>
